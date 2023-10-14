@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="Facebook">Facebook</string>
+    <string name="Tetris">Tetris</string>
+    <string name="YT">Youtube</string>
+    <string name="GG">Google</string>
+
+
+</resources>
