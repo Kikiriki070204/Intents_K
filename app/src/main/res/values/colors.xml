@@ -6,4 +6,12 @@
     <color name="n2">#B7D2FF</color>
     <color name="n3">#A9EBFF</color>
     <color name="n4">#E94958BD</color>
+    <color name="bg">#B3C6FF</color>
+    <color name="grey">#9CA6B1</color>
+    <color name="btn">#C6DDFF</color>
+    <color name="btn_text">#4A7BC5</color>
+    <color name="green">#00B800</color>
+    <color name="red">#B32424</color>
+    <color name="blue">#5ac</color>
+    <color name="cafe">#834E31</color>
 </resources>

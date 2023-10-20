@@ -54,6 +54,32 @@ public class intents_main extends AppCompatActivity {
             }
         });
 
+        findViewById(R.id.exp2).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(intents_main.this, Welcome.class));
+
+            }
+        });
+
+        findViewById(R.id.exp4).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(intents_main.this, goodbye.class));
+
+            }
+        });
+
+        findViewById(R.id.exp3).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(intents_main.this, calculadora.class));
+
+            }
+        });
+
+
+
     }
 
 
